@@ -44,6 +44,7 @@ Browse through the most popular plugins out there today!
 |Store Review|Ask for store review or launch app store page.|[NuGet](https://www.nuget.org/packages/Plugin.StoreReview/)|[GitHub](https://github.com/jamesmontemagno/StoreReviewPlugin)|[@jamesmontemagno](https://github.com/jamesmontemagno)|
 |Toast|A simple way of showing toast/pop-up notifications.|[NuGet](https://www.nuget.org/packages/Toasts.Forms.Plugin)|[GitHub](https://github.com/EgorBo/Toasts.Forms.Plugin)|[@AdamPed](https://github.com/AdamPed) & [@EgorBo](https://github.com/EgorBo)|
 |User Dialogs|Message box style dialogs.|[NuGet](https://www.nuget.org/packages/Acr.UserDialogs/)|[GitHub](https://github.com/aritchie/userdialogs)|[@allanritchie911](https://twitter.com/allanritchie911)|
+|Breach Detector|Detect root, emulation, debug mode and other security concerns.|[NuGet](https://www.nuget.org/packages/Plugin.BreachDetector/)|[GitHub](https://github.com/nmilcoff/BreachDetector)|[@nmilcoff](https://twitter.com/nmilcoff)|
 
 ## Data Caching & Databases
 
